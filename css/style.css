@@ -6,6 +6,16 @@
  * Made By MaterializeCSS.com
  */
 
+#projects{
+  /*background-color: grey;*/
+  /*width: auto;*/
+}
+
+.container{
+  /*background-color: grey;*/
+  /*width: 100%;*/
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -54,4 +64,9 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.icon-contact {
+  margin-left: 0.75em;
+  margin-right: 0.75em;
 }
